@@ -13,10 +13,7 @@ public class FibonicSeries {
 			k = a+b;
 			a = b;
 			b = k;			
-		}
-		
-		
-
+		}			
 	}
 
 }
