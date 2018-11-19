@@ -47,11 +47,7 @@ for(int a=0;a<i.length;a++){
 			}
 			
 			System.out.println();
-		}
-		
-		
-		
-		
+		}							
 
 	}
 
